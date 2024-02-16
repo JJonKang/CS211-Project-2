@@ -1,4 +1,4 @@
-# CS211-Project-2
+# CS211-Project-2: Food Web Analysis with Dynamic Memory
 Fall 2023, CS211.
 Second project for the class.
 Using a dynamically allocated struct array for the organisms, this program
